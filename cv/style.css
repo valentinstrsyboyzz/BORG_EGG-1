@@ -6,11 +6,14 @@
 
 .left{
   width: 30%;
-  background-color: green;  
+  background-color: green; 
+  float: left;
 }
 
 .right{
   width: 70%;
-  background-color: lightgray;  
+  background-color: lightgray;
+  float: right;
+  
 }
    
