@@ -22,3 +22,7 @@
   width: 600px;
   height:30%;
 }
+@media screen and (max-width: 600px){   
+  .left, .right{      width: 100%;  }
+
+}
